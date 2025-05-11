@@ -8,7 +8,7 @@ Olá! Bem-vindo ao meu perfil.✨
 
 <div align="left">
   <a href="">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SraCynthia&layout=compact&langs_count=7&theme=swift"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiarcp&layout=compact&langs_count=7&theme=vue-dark"/>
   </a>
 </div>
   
@@ -31,7 +31,8 @@ Olá! Bem-vindo ao meu perfil.✨
  
 </div>
 
-<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/85a29b5019101495c7e7887324d786cc.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+
+<a href="https://picasion.com/" title="gif maker"><img align="right" src="https://i.picasion.com/pic92/5acd8ffcdc05cf930c1e65bdf5460d46.gif" width="160" height="160" border="0"></a>
 <br clear="both">
 ##
 
